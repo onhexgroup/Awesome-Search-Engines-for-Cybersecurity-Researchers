@@ -44,3 +44,4 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://hunter.how/  | Which capable of performing fingerprint retrieval of internet-connected devices and services | YES |
 | https://cse.google.com/cse?cx=96ed537ad13f04565#gsc.tab=0 | Slack/Discord invite search | NO |
 | http://search.0t.rocks/ | Records Search :14,491,682,918 Records in DB | NO |
+| https://hackyx.io/ | find any resource related to IT security like CTF writeup, article or Bug Bounty reports. | NO |
