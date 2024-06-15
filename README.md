@@ -46,3 +46,4 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | http://search.0t.rocks/ | Records Search :14,491,682,918 Records in DB | NO |
 | https://hackyx.io/ | find any resource related to IT security like CTF writeup, article or Bug Bounty reports. | NO |
 | https://getodin.io/ | One of the most powerful search engines for Scanned Internet Assets | YES |
+| https://malsearch.com/ | The world’s largest Malware search engine with over 10,000,000 lines of Malware Source code! | NO |
