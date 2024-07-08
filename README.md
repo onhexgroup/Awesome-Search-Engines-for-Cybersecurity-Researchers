@@ -47,3 +47,8 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://hackyx.io/ | find any resource related to IT security like CTF writeup, article or Bug Bounty reports. | NO |
 | https://getodin.io/ | One of the most powerful search engines for Scanned Internet Assets | YES |
 | https://malsearch.com/ | The world’s largest Malware search engine with over 10,000,000 lines of Malware Source code! | NO |
+| https://shortdigger.com/#gsc.tab=0 | Enables the search for documents that are made accessible through the use of URL shortening services | NO |
+| https://fidigger.com/#gsc.tab=0 | Look for public archives in different File Sharing Services that are not so well known | NO |
+| https://yadigger.com/#gsc.tab=0 | Find public files in Disk Yandex | NO |
+| https://drodigger.com/#gsc.tab=0 | Find public files in Dropbox | NO |
+| https://s3digger.com/#gsc.tab=0 | Find public files in Amazon S3 | NO |
