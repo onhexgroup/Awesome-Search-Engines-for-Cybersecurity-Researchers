@@ -53,3 +53,4 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://drodigger.com/#gsc.tab=0 | Find public files in Dropbox | NO |
 | https://s3digger.com/#gsc.tab=0 | Find public files in Amazon S3 | NO |
 | https://urldna.io/ | The DNA test for websites | YES |
+| https://awseye.com/ | Shodan for AWS | YES |
