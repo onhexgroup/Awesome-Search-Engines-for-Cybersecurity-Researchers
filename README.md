@@ -4,6 +4,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 
 | Address | Description | API |
 | --- | --- | ---|
+| https://search.libraryofleaks.org/ | Search documents, companies and people | NO |
 | https://dash.pugrecon.celes.in/ | Query some subdomains! All subdomains are resolved and validated. | NO |
 | https://scamminder.com/ | Navigate Safely: Your Beacon in the Digital Fog. | NO |
 | https://www.dehashed.com/ | View leaked credentials | YES |
