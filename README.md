@@ -3,7 +3,19 @@ Awesome list of Search Engines for Cybersecurity Researchers
 
 
 | Address | Description | API |
-| --- | --- | ---|
+| --- | --- | --- |
+| https://search4faces.com | You can find a person on several platforms through their photo.(Reverse Face) | YES |
+| https://www.flightradar24.com | A tool for flight tracking | NO |
+| https://whopostedwhat.com/ | A tool that helps you know what was posted on Facebook on a specific date. | NO |
+| https://mattw.io/youtube-geofind/location | Allows you to search by upload location for YouTube videos that have location tags. | NO |
+| https://openinframap.org | Allows searching for key infrastructure.| NO |
+| https://www.mapchecking.com | A tool for estimating the number of people who can gather in a particular location. | NO |
+| https://getdaytrends.com/ | It allows you to view trending tags on Twitter at any time and place. | NO |
+| https://chatgpt.com/g/g-CJcEkxOw8-geo-guesser | A visual analysis expert (ChatGPT) who guesses image locations.| NO |
+| https://pimeyes.com | Upload photo and find out where images are published | NO |
+| https://whatsmyname.app/ | It takes a username and searches for that username on 633 sites and social media. | NO |
+| https://public.openmeasures.io | Allows you to search for trends across different platforms. | NO |
+| https://app.shadowmap.org/ | Allows you to view and simulate shadows created by buildings anywhere in the world. (Location of photos and videos) | NO |
 | https://ctfsearch.hackmap.win/ | Find and explore CTF solutions and writeups | NO |
 | https://search.libraryofleaks.org/ | Search documents, companies and people | NO |
 | https://dash.pugrecon.celes.in/ | Query some subdomains! All subdomains are resolved and validated. | NO |
