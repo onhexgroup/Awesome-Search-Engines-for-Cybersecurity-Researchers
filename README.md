@@ -72,3 +72,5 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://awseye.com/ | Shodan for AWS | YES |
 | https://securitygate.org | Research Center and Vulnerability Laboratory | YES |
 | https://www.hudsonrock.com/threat-intelligence-cybercrime-tools | Free Infostealer intelligence toolset | YES |
+| https://leakradar.io | Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring | YES |
+| https://subdomainradar.io | All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots | YES |
