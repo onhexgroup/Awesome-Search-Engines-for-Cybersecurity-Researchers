@@ -4,6 +4,9 @@ Awesome list of Search Engines for Cybersecurity Researchers
 
 | Address | Description | API |
 | --- | --- | --- |
+| https://magnify.modat.io/ | Modat Magnify gives you access to the largest internet device DNA dataset available. | Yes |
+| https://subdomainradar.io/ | Discover hidden subdomains, retrieve IP/DNS data, verify URLs, scan ports, capture screenshots, and scan for vulnerabilities—all in one powerful platform. | Yes |
+| https://leakradar.io | Search over 6 billion plain text credentials harvested by malware and get alerted before attackers act. | Yes |
 | https://meawfy.com/ | Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly. | NO |
 | https://www.eyedex.org/ | Search in 2.3 PB of 18,731,438 files among 5,171,742 directories on 114 servers | NO |
 | https://search4faces.com | You can find a person on several platforms through their photo.(Reverse Face) | YES |
