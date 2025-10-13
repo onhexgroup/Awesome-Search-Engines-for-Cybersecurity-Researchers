@@ -12,6 +12,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://www.eyedex.org/ | Search in 2.3 PB of 18,731,438 files among 5,171,742 directories on 114 servers | NO |
 | https://search4faces.com | You can find a person on several platforms through their photo.(Reverse Face) | YES |
 | https://www.flightradar24.com | A tool for flight tracking | NO |
+| https://cerast-intelligence.com/ | Search leaked files such as .env, database backups, and more | YES |
 | https://whopostedwhat.com/ | A tool that helps you know what was posted on Facebook on a specific date. | NO |
 | https://mattw.io/youtube-geofind/location | Allows you to search by upload location for YouTube videos that have location tags. | NO |
 | https://openinframap.org | Allows searching for key infrastructure.| NO |
