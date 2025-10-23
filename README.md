@@ -4,6 +4,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 
 | Address | Description | API |
 | --- | --- | --- |
+| https://blog.fautl.com/api-list.html | Windows API Arsenal:Serach Win API by name or categories + Interactive Malware Behavior Pattern Rcon & Att&ck Framework Mapping | NO |
 | https://dbugs.ptsecurity.com/ | New home for vulnerabilities. More than CVEs. More than MITRE.[Trends & Insights - AI-generated, multi-source vulnerability descriptions - Researcher credits] | NO |
 | https://magnify.modat.io/ | Modat Magnify gives you access to the largest internet device DNA dataset available. | Yes |
 | https://subdomainradar.io/ | Discover hidden subdomains, retrieve IP/DNS data, verify URLs, scan ports, capture screenshots, and scan for vulnerabilities—all in one powerful platform. | Yes |
