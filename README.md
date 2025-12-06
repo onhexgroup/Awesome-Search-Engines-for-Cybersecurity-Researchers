@@ -4,6 +4,9 @@ Awesome list of Search Engines for Cybersecurity Researchers
 
 | Address | Description | API |
 | --- | --- | --- |
+| https://flashpoint.io/ | Provides threat intelligence from dark web, illicit communities, and closed sources to help analyze adversary activity. | Yes |
+| https://spycloud.com/ | Collects and processes breach data to identify compromised accounts and prevent account takeover attacks. | Yes |
+| https://www.intel471.com/ | Delivers operational cyber threat intelligence on criminal ecosystems, malware activity, and adversary infrastructure. | Yes |
 | https://blog.fautl.com/api-list.html | Windows API Arsenal:Search Win API by name or categories + Interactive Malware Behavior Pattern Rcon & Att&ck Framework Mapping | NO |
 | https://dbugs.ptsecurity.com/ | New home for vulnerabilities. More than CVEs. More than MITRE.[Trends & Insights - AI-generated, multi-source vulnerability descriptions - Researcher credits] | NO |
 | https://magnify.modat.io/ | Modat Magnify gives you access to the largest internet device DNA dataset available. | Yes |
