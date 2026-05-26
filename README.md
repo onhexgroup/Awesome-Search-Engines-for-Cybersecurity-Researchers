@@ -48,6 +48,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://www.shodan.io/ | Search for devices connected to the internet | YES |
 | https://www.binaryedge.io/ | Scans the internet for threat intelligence | YES |
 | https://vulners.com/ | Search vulnerabilities in a large database | YES |
+| https://labs.jamessawyer.co.uk/cves/ | Search GitHub proof-of-concept repositories by CVE identifier | NO |
 | https://dnsdumpster.com/ | Search for DNS records quickly | YES |
 | https://searchcode.com/ | Search 75 billion lines of code from 40 million projects | YES |
 | https://hunter.io/ | Search for email addresses belonging to a website | YES |
