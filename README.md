@@ -56,6 +56,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://www.wigle.net/ | Database of wireless networks, with statistics | YES |
 | https://publicwww.com/ | Marketing and affiliate marketing research | YES |
 | https://www.searchwebcode.com/ | Exact-string and regex search across the HTML, JS and CSS source of 129M website homepages | YES |
+| https://www.stackscan.com/ | Search 399M+ websites by the technology they run or the files and asset hosts they load, such as a vulnerable library build or a compromised third-party host | YES |
 | https://censys.io/ | Assessing attack surface for internet connected devices | YES |
 | https://netlas.io/ | Search and monitor internet connected assets | YES |
 | https://fofa.info/ | Search for various threat intelligence | YES |
