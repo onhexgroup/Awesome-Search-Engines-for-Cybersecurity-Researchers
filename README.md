@@ -89,3 +89,4 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://www.hudsonrock.com/threat-intelligence-cybercrime-tools | Free Infostealer intelligence toolset | YES |
 | https://github.com/Xquik-dev/x-twitter-scraper | Independent X (Twitter) data API for search, follower export, monitors, and MCP | Yes |
 | https://cvetodo.com/ | Search and track CVEs with AI-generated vulnerability analysis, remediation priority scoring, SBOM/inventory matching, and real-time alerts | YES |
+| https://pureip.app | IP purity and risk score, reverse DNS, WHOIS/RDAP, IPv6 lookup, blacklist status, and per-provider AI service availability (which IP ranges work with ChatGPT / Claude / Gemini). | NO |
