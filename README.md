@@ -91,3 +91,4 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://github.com/Xquik-dev/x-twitter-scraper | Independent X (Twitter) data API for search, follower export, monitors, and MCP | Yes |
 | https://cvetodo.com/ | Search and track CVEs with AI-generated vulnerability analysis, remediation priority scoring, SBOM/inventory matching, and real-time alerts | YES |
 | https://pureip.app | IP purity and risk score, reverse DNS, WHOIS/RDAP, IPv6 lookup, blacklist status, and per-provider AI service availability (which IP ranges work with ChatGPT / Claude / Gemini). | NO |
+| https://www.orcarouter.ai/incident-archive | Orca AI Incident Archive: search and filter real-world AI agent security events (incidents, vulnerabilities, research, policy) by type, severity and confirmed harm; open data on GitHub at Continuum-AI-Corp/Orca-AI-Incident-Archive | NO |
