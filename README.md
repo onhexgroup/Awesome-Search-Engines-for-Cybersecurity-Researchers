@@ -69,6 +69,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0 | Telegram Search Engine | NO  |
 | https://lyzem.com/ | Telegram Search Engine | YES |
 | https://tgstat.ru/en/ | Telegram Search Engine | YES |
+| https://tgscope.io/ | Telegram Search Engine | NO  |
 | https://findadiscord.com/ | Discord Search Engine | NO  |
 | https://discordservers.com/ | Discord Search Engine | YES |
 | https://osintframework.com/ | OSINT Every Things | NO  |
