@@ -53,6 +53,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://dnsdumpster.com/ | Search for DNS records quickly | YES |
 | https://searchcode.com/ | Search 75 billion lines of code from 40 million projects | YES |
 | https://hunter.io/ | Search for email addresses belonging to a website | YES |
+| https://looot.ai/ | Work email, phone and company lookups, Google SERP and web page reading through one API key and a remote MCP server, pay per call | YES |
 | https://www.wigle.net/ | Database of wireless networks, with statistics | YES |
 | https://publicwww.com/ | Marketing and affiliate marketing research | YES |
 | https://www.searchwebcode.com/ | Exact-string and regex search across the HTML, JS and CSS source of 129M website homepages | YES |
