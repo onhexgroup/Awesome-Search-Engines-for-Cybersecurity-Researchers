@@ -37,6 +37,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://pulsedive.com/ | Search for threat intelligence | YES |
 | https://otx.alienvault.com/ | Extensive threat intelligence feed | YES |
 | https://securitytrails.com/ | Extensive DNS data | YES |
+| https://cl0q.com/ | Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier. | Yes |
 | https://www.zoomeye.org/ | Gather information about targets | YES |
 | https://buckets.grayhatwarfare.com/ | Search public S3 buckets | YES |
 | https://grep.app/ | Search across a half million git repos | NO  |
