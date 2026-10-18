@@ -23,6 +23,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://openinframap.org | Allows searching for key infrastructure.| NO |
 | https://www.mapchecking.com | A tool for estimating the number of people who can gather in a particular location. | NO |
 | https://getdaytrends.com/ | It allows you to view trending tags on Twitter at any time and place. | NO |
+| https://twtdata.com/twitter-trends/ | See what was trending on X (Twitter) in a given country or city on a past date. Free daily archive back to 2023, no login. | NO |
 | https://chatgpt.com/g/g-CJcEkxOw8-geo-guesser | A visual analysis expert (ChatGPT) who guesses image locations.| NO |
 | https://pimeyes.com | Upload photo and find out where images are published | NO |
 | https://whatsmyname.app/ | It takes a username and searches for that username on 633 sites and social media. | NO |
