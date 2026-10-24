@@ -34,6 +34,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://dash.pugrecon.celes.in/ | Query some subdomains! All subdomains are resolved and validated. | NO |
 | https://scamminder.com/ | Navigate Safely: Your Beacon in the Digital Fog. | NO |
 | https://www.dehashed.com/ | View leaked credentials | YES |
+| https://github.com/RanaKhan77/Exposure-Check-OSINT | Self-hosted breach & exposure search engine — check if an email, username, phone or password is leaked across 22 keyless sources (breach corpora, infostealer logs, COMB 11B+ credentials, HIBP k-anonymity, 150-platform username grid). Docker one-command install, Apache-2.0. | NO |
 | https://www.exploit-db.com/ | Archive of various exploits | YES |
 | https://pulsedive.com/ | Search for threat intelligence | YES |
 | https://otx.alienvault.com/ | Extensive threat intelligence feed | YES |
