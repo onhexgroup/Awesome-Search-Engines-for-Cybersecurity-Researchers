@@ -39,6 +39,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://pulsedive.com/ | Search for threat intelligence | YES |
 | https://otx.alienvault.com/ | Extensive threat intelligence feed | YES |
 | https://securitytrails.com/ | Extensive DNS data | YES |
+| https://profundis.io/ | Search domains, DNS records, WHOIS and TLS certificates, and discover related infrastructure. | YES |
 | https://cl0q.com/ | Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier. | Yes |
 | https://netapi.com/ | Domain search across 1,500+ TLDs: newly registered domains by keyword, domain and reverse IP lookup, compromised domain/IP checks and a free Top 1M list. | YES |
 | https://www.zoomeye.org/ | Gather information about targets | YES |
