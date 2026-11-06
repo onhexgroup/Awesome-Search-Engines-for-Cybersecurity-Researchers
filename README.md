@@ -53,7 +53,7 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://fullhunt.io/ | Search and discovery attack surfaces | YES |
 | https://www.onyphe.io/ | Collects cyber-threat intelligence data | YES |
 | https://www.shodan.io/ | Search for devices connected to the internet | YES |
-| https://www.binaryedge.io/ | Scans the internet for threat intelligence | YES |
+| https://github.com/binaryedge | Scans the internet for threat intelligence | YES |
 | https://vulners.com/ | Search vulnerabilities in a large database | YES |
 | https://labs.jamessawyer.co.uk/cves/ | Search GitHub proof-of-concept repositories by CVE identifier | NO |
 | https://dnsdumpster.com/ | Search for DNS records quickly | YES |
