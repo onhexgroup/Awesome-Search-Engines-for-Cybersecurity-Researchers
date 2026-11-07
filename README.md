@@ -106,3 +106,4 @@ Awesome list of Search Engines for Cybersecurity Researchers
 | https://scanmalware.com/ | Free URL scanner that analyses links in isolated environments and checks what they load against YARA, antivirus and IDS rules, threat feeds and AI, with every public scan searchable by domain, IP, ASN, JARM or favicon hash | YES |
 | https://useopsis.com/ | Reverse email lookup: finds the accounts linked to an email address, username or domain across 1000+ source modules. Freemium (3 free searches a month). REST API on the Pro plan. | YES |
 | https://tgden.com/ | Search engine and catalog of open Telegram content: 1.7M+ public channels, 250K+ group chats and 228K+ bots (RU/EN); free keyless REST API and a remote MCP server | YES |
+| https://whatoblock.com/ | Honeypot-based threat intelligence: search IPs seen by HoneyBot sensors and classified as scanners, botnet C2, abusive proxies, Tor exits and DDoS sources, with firewall-ready blocklists (free account available). | NO |
